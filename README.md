@@ -1,2 +1,2 @@
 # script-cammand-loop
-bash ssell, 
+1    bash ssell, 
