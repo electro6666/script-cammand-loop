@@ -1,2 +1,7 @@
 # script-cammand-loop
-1    bash ssell, 
+usage
+
+   bash ssell, 
+   
+   
+ -back and if terminal  lags 
