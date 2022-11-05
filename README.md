@@ -4,4 +4,5 @@ usage
    bash ssell, 
    
    
- -back and if terminal  lags 
+back if terminal  lags 
+Result of shell, is going to save in a hidden file called .sh
